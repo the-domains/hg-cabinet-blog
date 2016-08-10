@@ -1,0 +1,14 @@
+layout_spectrum: 0.3832927
+typography_spectrum: 0.9276342
+color:
+  saturation: 0.9980129
+  lightness: 0.9383623
+  brandStrength: 0.7517761
+  rhythmicContrast: 0.7636464
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: HG Cabinet Blog

@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.7598566
 color:
   saturation: 0.9980129
   brandStrength: 0.7517761
@@ -21,6 +22,5 @@ color:
     - '#5C6B73'
     - '#253237'
   lightness: 0.9383623
-typography_spectrum: 1
 layout_spectrum: 1
 name: HG Cabinet Blog

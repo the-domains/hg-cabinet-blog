@@ -4,12 +4,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 1
 color:
   saturation: 0.9980129
   brandStrength: 0.7517761
@@ -21,6 +22,5 @@ color:
     - '#5C6B73'
     - '#253237'
   lightness: 0.9383623
-typography_spectrum: 1
-layout_spectrum: 0.7885305
+layout_spectrum: 0.001792115
 name: HG Cabinet Blog
